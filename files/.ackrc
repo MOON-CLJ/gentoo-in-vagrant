@@ -1,0 +1,7 @@
+# python
+--ignore-dir=venv/
+--ignore-dir=venv3/
+--ignore-dir=.eggs/
+
+# cmake
+--ignore-dir=/build
