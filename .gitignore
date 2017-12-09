@@ -1,8 +1,2 @@
 *.sw[pon]
 .vagrant/
-
-# install from Puppetfile
-modules/vundle/
-modules/apt/
-modules/concat/
-modules/stdlib/
